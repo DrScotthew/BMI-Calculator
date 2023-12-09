@@ -1,0 +1,15 @@
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\bin\Debug\net6.0\ProgramAssignment2.exe
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\bin\Debug\net6.0\ProgramAssignment2.deps.json
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\bin\Debug\net6.0\ProgramAssignment2.runtimeconfig.json
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\bin\Debug\net6.0\ProgramAssignment2.dll
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\bin\Debug\net6.0\ProgramAssignment2.pdb
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.csproj.AssemblyReference.cache
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.AssemblyInfoInputs.cache
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.AssemblyInfo.cs
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.csproj.CoreCompileInputs.cache
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.dll
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\refint\ProgramAssignment2.dll
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.pdb
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ProgramAssignment2.genruntimeconfig.cache
+C:\Users\Scott\source\repos\ProgramAssignment2\ProgramAssignment2\obj\Debug\net6.0\ref\ProgramAssignment2.dll
